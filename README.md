@@ -10,7 +10,7 @@ The front-end application was provided for this project.
 
 ## Screenshot
 ### Home Page:
-![home](/screenshots/home.jpg)
+![home](/screenshots/grubdash-home.png)
 
 ## Technology
 - Built with Node.js and Express server framework
